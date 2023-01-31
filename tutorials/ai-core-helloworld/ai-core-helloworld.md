@@ -302,7 +302,7 @@ You will directed to the details page of your application.
 
 1. Click the **Refresh** button.
 
-2. View the time elapsed since the last **Reconciled At**. The application automatically actively syncs with your GitHub repository at intervals of ~3 minutes. You can use **Refresh** button to update your page and check the status of your application.
+2. View the time elapsed since the last **Reconciled At**. You can use **Refresh** button to update your page and check the status of your application.
 
 3. Click the **i tooltip** in the **Health** log to see the most recent sync log.
 
@@ -333,6 +333,8 @@ for workflow_sync_status in response.sync_ressources_status:
 <!-- border -->![image](img2/aics/app-status.png)
 
 [OPTION END]
+
+> **Note:** The application automatically actively syncs with your GitHub repository at intervals of ~3 minutes.
 
 If there are any errors in the syntax of your executable then this application status will report `message` with the error in the code output.
 
