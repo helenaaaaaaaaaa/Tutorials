@@ -28,9 +28,7 @@ author_profile: https://github.com/Juliana-Morais
 
 2. Access your global account.
 
-    <!-- border -->![global account](global-account.png)
-
-    >You can also perform this tutorial series using a trial account. For that, follow the steps in [Use Trial to Set Up Account for Service Ticket Intelligence and Get Service Key](cp-aibus-sti-booster-key).
+    <!-- border -->![global account](global-account.png)    
 
 
 
@@ -61,7 +59,7 @@ Now, you will use the **Set up account for Service Ticket Intelligence** booster
 
     <!-- border -->![Service Key](booster-scenario.png)
 
-6. Choose the **free** plan. You can also rename the subaccount to `sti-free-tier-service-plan-tutorial`, for example. Choose the region closest to you. For this tutorial, we'll use **Europe (Frankfurt) - AWS**. Click **Next**.
+6. Choose the **free** plan. You can also rename the subaccount to `sti-free-tier-service-plan-tutorial`, for example. Choose the region closest to you. For this tutorial, we'll use **Europe (Frankfurt)**. Click **Next**.
 
     <!-- border -->![Service Key](booster-subaccount.png)
 

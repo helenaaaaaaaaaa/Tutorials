@@ -1,17 +1,15 @@
 ---
-parser: v2
+author_name: Dhrubajyoti Paul
+author_profile: https://github.com/dhrubpaul
 auto_validation: true
 time: 45
 tags: [ tutorial>beginner, topic>artificial-intelligence, topic>machine-learning, software-product>sap-business-technology-platform, software-product>sap-ai-launchpad, software-product>sap-ai-core ]
 primary_tag: software-product>sap-ai-launchpad
-author_name: Dhrubajyoti Paul
-author_profile: https://github.com/dhrubpaul
+parser: v2
 ---
+
 # Quick Start for Your First AI Project Using SAP AI Core
 <!-- description --> Learn the fundamentals of SAP AI Core and create your Hello, World! AI scenario.
-
-## Prerequisites
-- Have Postman, Python (AI Libraries) or SAP AI Launchpad set up. You can set any of these up using [this tutorial](https://developers.sap.com/tutorials/ai-core-setup.html/#)
 
 ## You will learn
 - How to connect GitHub to SAP AI Core
@@ -19,12 +17,14 @@ author_profile: https://github.com/dhrubpaul
 - How to check the sync status and debug errors in your AI workflow
 - How to run workflows in SAP AI Core
 
+## Prerequisites
+- Have Postman, Python (AI Libraries) or SAP AI Launchpad set up. You can set any of these up using [this tutorial](https://developers.sap.com/tutorials/ai-core-setup.html/#)
+
 ## Intro
 You will create an AI workflow for your Hello, World! workflow, and connect and execute it in your SAP AI Core instance. You will see that workflows between GitHub and SAP AI Core can be auto synced, and it is possible to use this workflow after subscription, to connect to your actual AI code.
 
 The terms "executable" and "workflow" can be used interchangeably to refer to the YAML files, introduced in this tutorial.
 
----
 
 ### Create a GitHub repository
 

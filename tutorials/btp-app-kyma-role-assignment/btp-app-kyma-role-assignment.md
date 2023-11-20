@@ -1,6 +1,6 @@
 ---
-author_name: Manju Shankar
-author_profile: https://github.com/manjuX
+author_name: Mahati Shankar
+author_profile: https://github.com/smahati
 title: Assign a Role Collection to a User
 description: This tutorial shows you how to assign roles to users.
 keywords: cap
@@ -11,7 +11,7 @@ primary_tag: software-product-function>sap-cloud-application-programming-model
 ---
 
 ## Prerequisites
- - [Add the SAP Launchpad Service](btp-app-kyma-launchpad-service)
+ - [Subscribe to the SAP Build Work Zone, Standard Edition](btp-app-kyma-work-zone-subscribe)
 
 ## Details
 ### You will learn

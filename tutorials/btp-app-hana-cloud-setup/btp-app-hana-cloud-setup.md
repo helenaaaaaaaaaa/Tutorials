@@ -1,6 +1,6 @@
 ---
-author_name: Manju Shankar
-author_profile: https://github.com/manjuX
+author_name: Mahati Shankar
+author_profile: https://github.com/smahati
 title: Set Up the SAP HANA Cloud Service
 description: This tutorial shows you how to set up the SAP HANA cloud service instance.
 keywords: cap
@@ -191,7 +191,6 @@ If you need to create an SAP HANA Cloud service instance first &rarr; continue w
     > ```
 
 
-[VALIDATE_1]
 [OPTION END]
 [OPTION BEGIN [Live]]
 
@@ -263,9 +262,9 @@ If you need to create an SAP HANA Cloud service instance first &rarr; continue w
     > ```
 
 
-[VALIDATE_1]
 [OPTION END]
 
+[VALIDATE_1]
 The result of this tutorial can be found in the [`hana-cloud-setup`](https://github.com/SAP-samples/cloud-cap-risk-management/tree/hana-cloud-setup) branch.
 
 
